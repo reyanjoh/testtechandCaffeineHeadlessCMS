@@ -1,5 +1,5 @@
 Database is Hosted with render.com
-and will expire on April 26, 2023
+and will expire on April 26, 2023 with its free tier plan
 
 # 🚀 Getting started with Strapi
 
